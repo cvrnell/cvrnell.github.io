@@ -11,3 +11,11 @@ background-color: #F7F3DE;
 background-repeat: no-repeat;
  background-attachment: fixed;
 }
+header{font-size: 15px;
+  color: #7C1A00;
+  padding: 40px;
+  padding-left: 120px;
+  background-image: url("header-image-1.gif");
+  background-position: left;
+  background-repeat: no-repeat;
+}
