@@ -5,12 +5,12 @@ body{
   font-family: "Georgia", serif;
   color: black;
   line-height: 140%;
- margin: 30px;
   background-image: url("page-bg.gif");
 background-color: #F7F3DE;
 background-repeat: no-repeat;
  background-attachment: fixed;
 }
+
 header{font-size: 15px;
   color: #7C1A00;
   padding: 40px;
