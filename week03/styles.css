@@ -54,9 +54,14 @@ nav a:hover {
   padding: 10px
 }
 
-<footer li{
-   clear: both;
-    text-align: center;
+footer {
+  clear: both;
+  text-align: center;
+}
+
+footer li{
+display: inline;
+padding: 10px;
 }
 
 h1{
