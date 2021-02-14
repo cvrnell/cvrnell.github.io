@@ -21,8 +21,8 @@ header h1{font-size: 350%;
 
 #container{
   margin-bottom: 30px;
-
 }
+
 nav{
   float:left;
   width: 150px;
@@ -41,7 +41,6 @@ nav li{
   border-style: solid;
   border-color: #7C1A00;
   background-color: #FFE597;
-
 }
 
 nav a{
@@ -51,7 +50,7 @@ nav a{
   text-decoration: none;
 }
 
-nav a:hover {
+nav a:hover{
   background-color: #7C1A00;
 }
 
@@ -63,7 +62,7 @@ nav a:hover {
   padding: 10px
 }
 
-footer {
+footer{
   clear: both;
   text-align: center;
 }
@@ -79,17 +78,19 @@ h1{
 
 h2{
   border-left: 20px;
-  border-color:  #8C9273
+  border-color:  #8C9273;
   border-bottom: 5px;
-  border-color: #8C9273
+  border-color: #8C9273;
   border-style: solid;
   padding-left: 5px;
   }
 
-  <h3>background-image: url("header-star-1.gif");
-    background-repeat: no-repeat;
-    padding-left: 20px;<>
-  }
+h3{
+  background-image: url("header-star-1.gif");
+  background-repeat: no-repeat;
+  padding-left: 20px;
+}
+
 
 blockquote{
   background-color: #FFE597;
@@ -99,11 +100,11 @@ ul {
   list-style-type: square;
 }
 
-a {
+a{
   color:  #7C1A00;
   font-weight: bold;
 }
 
-a:hover {
+a:hover{
   background-color: #FFE597
 }
